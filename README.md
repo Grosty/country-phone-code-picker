@@ -7,12 +7,13 @@
     
     const codePicker = new CodePicker();
 
-    or with options
+or with options
 
     const codePicker = new CodePicker(options);
 
-    default
-    options = {
+default options
+
+    const options = {
       className: "code-country-picker",
       iconFormat: "svg",
       path: "/img/countries",
@@ -36,7 +37,7 @@ returns String only phone number without prefix code
 open list of countries
 
     codePicker.closePopup();
-    
+
 close list of countries
 
 
