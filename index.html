@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="styles/mincss/country-code-phone-picker.min.css"
+    />
+    <title>Country Code Phone Picker</title>
+  </head>
+  <body>
+    <form action="#">
+      <input type="tel" placeholder="Tel" id="phoneField" />
+      <button>Submit</button>
+    </form>
+
+    <script src="/js/country-code-phone-picker.js"></script>
+    <script>
+      const codePicker = new CodePicker("#phoneField", {
+        path: "/img",
+        placeholder: "+",
+        searchPlaceholder: "Search",
+        className: "code-country-picker",
+        iconFormat: "svg",
+      });
+    </script>
+  </body>
+</html>
