@@ -1,0 +1,20 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rounded=Jordan (JO)">
+<g clip-path="url(#clip0_2909_185484)">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M-14.4785 0H113.523V21.3336H-14.4785V0Z" fill="black"/>
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M-14.4785 21.3336H113.523V42.6672H-14.4785V21.3336Z" fill="#F5F5F5"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M-14.4785 42.6672H113.523V64.0008H-14.4785V42.6672Z" fill="#009900"/>
+<path id="Vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M-14.4785 64.0008L49.5223 31.9939L-14.4785 0V64.0008Z" fill="#FF0000"/>
+<path id="Vector_5" fill-rule="evenodd" clip-rule="evenodd" d="M6.89359 31.6437L9.74672 33.0184H6.56938L7.28266 36.1309L5.29844 33.628L3.31422 36.118L4.0275 33.0184H0.824219L3.69031 31.6308L1.70609 29.1537L4.57219 30.5284L5.28547 27.4289L5.99875 30.5414L8.85187 29.1537L6.89359 31.6437Z" fill="#F5F5F5"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2909_185484">
+<path d="M0.246094 32C0.246094 14.3269 14.573 0 32.2461 0V0C49.9192 0 64.2461 14.3269 64.2461 32V32C64.2461 49.6731 49.9192 64 32.2461 64V64C14.573 64 0.246094 49.6731 0.246094 32V32Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

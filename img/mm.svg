@@ -1,0 +1,18 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rounded=Myanmar (MM)">
+<g clip-path="url(#clip0_2909_185378)">
+<path id="Vector" d="M0.246094 0H64.2461V21.3375H0.246094V0Z" fill="#FECB00"/>
+<path id="Vector_2" d="M0.246094 42.6625H64.2461V64H0.246094V42.6625Z" fill="#EA2839"/>
+<path id="Vector_3" d="M0.246094 21.3375H64.2461V42.6625H0.246094V21.3375Z" fill="#34B233"/>
+<g id="Group">
+<path id="Vector_4" d="M-12.8016 8.97187L-18.6319 -8.97191L6.71299 -7.28788L-12.8016 8.97187Z" fill="#F5F5F5"/>
+<path id="Vector_5" d="M-23.3489 5.54492L-8.08498 -5.54495L-1.8546 19.0798L-23.3489 5.54492Z" fill="#F5F5F5"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2909_185378">
+<path d="M0.246094 32C0.246094 14.3269 14.573 0 32.2461 0V0C49.9192 0 64.2461 14.3269 64.2461 32V32C64.2461 49.6731 49.9192 64 32.2461 64V64C14.573 64 0.246094 49.6731 0.246094 32V32Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

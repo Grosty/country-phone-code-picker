@@ -1,0 +1,25 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rounded=Greece (GR)">
+<g clip-path="url(#clip0_2909_185401)">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 0H64.2461V7.125H0.246094V0Z" fill="#005BAE"/>
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 7.125H64.2461V14.25H0.246094V7.125Z" fill="#F5F5F5"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 14.25H64.2461V21.375H0.246094V14.25Z" fill="#005BAE"/>
+<path id="Vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 21.375H64.2461V28.5H0.246094V21.375Z" fill="#F5F5F5"/>
+<path id="Vector_5" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 28.5H64.2461V35.6125H0.246094V28.5Z" fill="#005BAE"/>
+<path id="Vector_6" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 35.6125H64.2461V42.7375H0.246094V35.6125Z" fill="#F5F5F5"/>
+<path id="Vector_7" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 42.7375H64.2461V49.8625H0.246094V42.7375Z" fill="#005BAE"/>
+<path id="Vector_8" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 49.8625H64.2461V56.9875H0.246094V49.8625Z" fill="#F5F5F5"/>
+<path id="Vector_9" d="M0.246094 0H35.8586V35.6125H0.246094V0Z" fill="#005BAE"/>
+<g id="Group">
+<path id="Vector_10" fill-rule="evenodd" clip-rule="evenodd" d="M14.4912 0H21.6137V35.6125H14.4912V0Z" fill="#F5F5F5"/>
+<path id="Vector_11" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 14.245H35.8586V21.3675H0.246094V14.245Z" fill="#F5F5F5"/>
+</g>
+<path id="Vector_12" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 56.875H64.2461V64H0.246094V56.875Z" fill="#005BAE"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2909_185401">
+<path d="M0.246094 32C0.246094 14.3269 14.573 0 32.2461 0V0C49.9192 0 64.2461 14.3269 64.2461 32V32C64.2461 49.6731 49.9192 64 32.2461 64V64C14.573 64 0.246094 49.6731 0.246094 32V32Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

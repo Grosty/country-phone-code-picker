@@ -1,0 +1,21 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rounded=South Africa (ZA)">
+<g clip-path="url(#clip0_2909_185256)">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M-8.74219 50.971V13.0534L19.4911 31.9994L-8.74219 50.971Z" fill="black"/>
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M10.5234 64.0116L42.2154 42.6829H87.2553V64.0116H10.5234V64.0116Z" fill="#0000CC"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M8.48633 -1.1803e-05H87.2678V21.3414H42.2023C42.2023 21.3414 8.90906 -0.204972 8.48633 -1.1803e-05Z" fill="#FF0000"/>
+<path id="Vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M-8.74219 8.00623V13.0406L19.4911 31.9994L-8.74219 50.9582V56.0053L26.8184 31.9994L-8.74219 8.00623Z" fill="#FFCC00"/>
+<path id="Vector_5" fill-rule="evenodd" clip-rule="evenodd" d="M-8.74219 8.00625V0H3.11987L40.7813 25.4919H87.256V38.5197H40.7813L3.11987 63.9988H-8.74219V56.0053L26.8184 31.9994L-8.74219 8.00625Z" fill="#009933"/>
+<path id="Vector_6" fill-rule="evenodd" clip-rule="evenodd" d="M3.11914 0H10.5233L42.2153 21.3415H87.2552V25.4919H40.7805L3.11914 0ZM3.11914 64.0116H10.5233L42.2153 42.6829H87.2552V38.5325H40.7805L3.11914 63.9988V64.0116Z" fill="#F5F5F5"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2909_185256">
+<path d="M0.246094 32C0.246094 14.3269 14.573 0 32.2461 0V0C49.9192 0 64.2461 14.3269 64.2461 32V32C64.2461 49.6731 49.9192 64 32.2461 64V64C14.573 64 0.246094 49.6731 0.246094 32V32Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rounded=Iceland (IS)">
+<g clip-path="url(#clip0_2909_185373)">
+<g id="Group">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M-11.0039 0H77.8852V64.0001H-11.0039V0Z" fill="#003897"/>
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M-11.0039 24.8889H13.885V0H28.1073V24.8889H77.8852V39.1112H28.1073V64.0001H13.885V39.1112H-11.0039V24.8889Z" fill="#F5F5F5"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M-11.0039 28.4445H17.4406V0H24.5517V28.4445H77.8852V35.5556H24.5517V64.0001H17.4406V35.5556H-11.0039V28.4445Z" fill="#D72828"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2909_185373">
+<path d="M0.246094 32C0.246094 14.3269 14.573 0 32.2461 0V0C49.9192 0 64.2461 14.3269 64.2461 32V32C64.2461 49.6731 49.9192 64 32.2461 64V64C14.573 64 0.246094 49.6731 0.246094 32V32Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

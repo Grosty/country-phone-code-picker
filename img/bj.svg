@@ -1,0 +1,18 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rounded=Benin (BJ)">
+<g clip-path="url(#clip0_2909_185496)">
+<g id="Group">
+<g id="Group_2">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M-6.25391 0.000610352H25.7474V64.0032H-6.25391V0.000610352Z" fill="#319400"/>
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M25.7473 0.000610352H89.7499V32.0019H25.7473V0.000610352Z" fill="#FFD600"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M25.7473 32.0019H89.7499V64.0032H25.7473V32.0019Z" fill="#DE2110"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2909_185496">
+<path d="M0.246094 32C0.246094 14.3269 14.573 0 32.2461 0V0C49.9192 0 64.2461 14.3269 64.2461 32V32C64.2461 49.6731 49.9192 64 32.2461 64V64C14.573 64 0.246094 49.6731 0.246094 32V32Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

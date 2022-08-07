@@ -1,0 +1,15 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rounded=Suriname (SR)">
+<g clip-path="url(#clip0_2909_185284)">
+<path id="Vector" d="M0.246094 0H64.2461V64H0.246094V0Z" fill="#377E3F"/>
+<path id="Vector_2" d="M0.246094 12.8H64.2461V51.2H0.246094V12.8Z" fill="#F5F5F5"/>
+<path id="Vector_3" d="M0.246094 19.2H64.2461V44.8H0.246094V19.2Z" fill="#B40A2D"/>
+<path id="Vector_4" d="M32.2336 20.425L39.7586 43.575L20.0586 29.2625H44.4086L24.7086 43.575L32.2336 20.425Z" fill="#ECC81D"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2909_185284">
+<path d="M0.246094 32C0.246094 14.3269 14.573 0 32.2461 0V0C49.9192 0 64.2461 14.3269 64.2461 32V32C64.2461 49.6731 49.9192 64 32.2461 64V64C14.573 64 0.246094 49.6731 0.246094 32V32Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

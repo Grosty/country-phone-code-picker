@@ -1,0 +1,16 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rounded=Svalbard and Jan Mayen (SJ)">
+<g clip-path="url(#clip0_2909_185288)">
+<path id="Vector" d="M0.246094 0H64.2461V64H0.246094V0Z" fill="#EF2B2D"/>
+<path id="Vector_2" d="M16.2461 0H32.2461V64H16.2461V0Z" fill="#F5F5F5"/>
+<path id="Vector_3" d="M0.246094 24H64.2461V40H0.246094V24Z" fill="#F5F5F5"/>
+<path id="Vector_4" d="M20.2461 0H28.2461V64H20.2461V0Z" fill="#002868"/>
+<path id="Vector_5" d="M0.246094 28H64.2461V36H0.246094V28Z" fill="#002868"/>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2909_185288">
+<path d="M0.246094 32C0.246094 14.3269 14.573 0 32.2461 0V0C49.9192 0 64.2461 14.3269 64.2461 32V32C64.2461 49.6731 49.9192 64 32.2461 64V64C14.573 64 0.246094 49.6731 0.246094 32V32Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

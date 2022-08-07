@@ -1,0 +1,17 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rounded=Jamaica (JM)">
+<g clip-path="url(#clip0_2909_185371)">
+<g id="Group">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 0L32.2461 32L0.246094 64V0ZM64.2461 0L32.2461 32L64.2461 64V0Z" fill="black"/>
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 0L32.2461 32L64.2461 0H0.246094ZM0.246094 64L32.2461 32L64.2461 64H0.246094Z" fill="#009900"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M64.2461 0H58.2836L0.246094 58.0375V64H6.20859L64.2461 5.9625V0Z" fill="#FFCC00"/>
+<path id="Vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 0V5.9625L58.2836 64H64.2461V58.0375L6.20859 0H0.246094Z" fill="#FFCC00"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2909_185371">
+<path d="M0.246094 32C0.246094 14.3269 14.573 0 32.2461 0V0C49.9192 0 64.2461 14.3269 64.2461 32V32C64.2461 49.6731 49.9192 64 32.2461 64V64C14.573 64 0.246094 49.6731 0.246094 32V32Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

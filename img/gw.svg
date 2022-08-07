@@ -1,0 +1,36 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rounded=Guinea-Bissau (GW)">
+<g clip-path="url(#clip0_2909_185398)">
+<path id="Vector" d="M0.246094 0H20.2461V64H0.246094V0Z" fill="#CE1126"/>
+<path id="Vector_2" d="M20.2461 0H64.2461V32H20.2461V0Z" fill="#FCD116"/>
+<path id="Vector_3" d="M20.2461 32H64.2461V64H20.2461V32Z" fill="#009E49"/>
+<g id="Group">
+<g id="b">
+<path id="a" d="M10.2432 24.872L7.80626 32.372L11.5563 33.5905" fill="black"/>
+<path id="Vector_4" d="M10.2432 24.872L12.6801 32.372L8.93006 33.5905" fill="black"/>
+</g>
+<g id="Group_2">
+<path id="a_2" d="M17.7432 30.3211H9.85716V34.2641" fill="black"/>
+<path id="Vector_5" d="M17.7432 30.3211L11.3633 34.9564L9.04562 31.7664" fill="black"/>
+</g>
+<g id="Group_3">
+<path id="a_3" d="M14.8779 39.1379L12.441 31.6379L8.69101 32.8563" fill="black"/>
+<path id="Vector_6" d="M14.8779 39.1379L8.49802 34.5026L10.8157 31.3127" fill="black"/>
+</g>
+<g id="Group_4">
+<path id="a_4" d="M5.60742 39.1379L11.9873 34.5027L9.66969 31.3127" fill="black"/>
+<path id="Vector_7" d="M5.60742 39.1379L8.04433 31.6379L11.7943 32.8564" fill="black"/>
+</g>
+<g id="Group_5">
+<path id="a_5" d="M2.74316 30.3211L9.12307 34.9564L11.4407 31.7664" fill="black"/>
+<path id="Vector_8" d="M2.74316 30.3211H10.6292V34.2641" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2909_185398">
+<path d="M0.246094 32C0.246094 14.3269 14.573 0 32.2461 0V0C49.9192 0 64.2461 14.3269 64.2461 32V32C64.2461 49.6731 49.9192 64 32.2461 64V64C14.573 64 0.246094 49.6731 0.246094 32V32Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

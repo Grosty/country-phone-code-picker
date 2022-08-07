@@ -1,0 +1,17 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rounded=Puerto Rico (PR)">
+<g clip-path="url(#clip0_2909_185303)">
+<g id="Group">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M-4.41602 0H91.5848V64.0036H-4.41602V0Z" fill="#ED0000"/>
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M-4.41602 12.7971H91.5848V25.6033H-4.41602V12.7971ZM-4.41602 38.4004H91.5848V51.1975H-4.41602V38.4004Z" fill="#F5F5F5"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M-4.41602 0L50.6738 31.9612L-4.41602 63.8771V0Z" fill="#0050F0"/>
+<path id="Vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M19.805 40.6852L13.8716 36.26L7.97425 40.7304L10.1688 33.4603L4.27148 28.9719L11.5596 28.9086L13.8174 21.6657L16.1294 28.8906L23.4175 28.8996L17.5563 33.4332L19.805 40.6852V40.6852Z" fill="#F5F5F5"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2909_185303">
+<path d="M0.246094 32C0.246094 14.3269 14.573 0 32.2461 0V0C49.9192 0 64.2461 14.3269 64.2461 32V32C64.2461 49.6731 49.9192 64 32.2461 64V64C14.573 64 0.246094 49.6731 0.246094 32V32Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

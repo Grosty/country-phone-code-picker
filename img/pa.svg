@@ -1,0 +1,17 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rounded=Panama (PA)">
+<g clip-path="url(#clip0_2909_185312)">
+<g id="Group">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M-3.00391 -3.125H71.0586V71.375H-3.00391V-3.125Z" fill="#F5F5F5"/>
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M32.1582 -2.54999H71.1707V31.85H32.1707L32.1582 -2.54999Z" fill="#DB0000"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M-6.56641 31.85H32.1711V71.375H-6.56641V31.85ZM22.6211 22.7L16.8086 19.05L11.0336 22.7375L13.1836 16.7375L7.40859 13.0375L14.5461 12.9875L16.7586 7.01251L19.0211 12.975H26.1586L20.4211 16.725L22.6211 22.7V22.7Z" fill="#0000AB"/>
+<path id="Vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M54.6461 56.125L48.8461 52.475L43.0586 56.1625L45.2086 50.1625L39.4336 46.475L46.5836 46.425L48.7961 40.45L51.0461 46.4125H58.1961L52.4461 50.1625L54.6461 56.125Z" fill="#D80000"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2909_185312">
+<path d="M0.246094 32C0.246094 14.3269 14.573 0 32.2461 0V0C49.9192 0 64.2461 14.3269 64.2461 32V32C64.2461 49.6731 49.9192 64 32.2461 64V64C14.573 64 0.246094 49.6731 0.246094 32V32Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

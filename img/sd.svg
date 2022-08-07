@@ -1,0 +1,17 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rounded=Sudan (SD)">
+<g clip-path="url(#clip0_2909_185293)">
+<g id="Group">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 42.6644H128.239V64.0031H0.246094V42.6644Z" fill="black"/>
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 21.3258H128.239V42.6644H0.246094V21.3258Z" fill="#F5F5F5"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 0H128.343V21.3387H0.246094V0Z" fill="#FF0000"/>
+<path id="Vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M0.246094 0V63.9902L42.9105 31.9951L0.246094 0Z" fill="#009A00"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2909_185293">
+<path d="M0.246094 32C0.246094 14.3269 14.573 0 32.2461 0V0C49.9192 0 64.2461 14.3269 64.2461 32V32C64.2461 49.6731 49.9192 64 32.2461 64V64C14.573 64 0.246094 49.6731 0.246094 32V32Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>

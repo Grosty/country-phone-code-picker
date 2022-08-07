@@ -1,0 +1,17 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Rounded=Cuba (CU)">
+<g clip-path="url(#clip0_2909_185467)">
+<g id="Group">
+<path id="Vector" fill-rule="evenodd" clip-rule="evenodd" d="M-3.75391 0H92.2461V64H-3.75391V0Z" fill="#0050F0"/>
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M-3.75391 12.8H92.2461V25.6H-3.75391V12.8ZM-3.75391 38.4H92.2461V51.2H-3.75391V38.4Z" fill="#F5F5F5"/>
+<path id="Vector_3" fill-rule="evenodd" clip-rule="evenodd" d="M-3.75391 0L51.3336 31.9625L-3.75391 63.875V0Z" fill="#ED0000"/>
+<path id="Vector_4" fill-rule="evenodd" clip-rule="evenodd" d="M20.4711 40.6875L14.5336 36.25L8.63359 40.725L10.8336 33.4625L4.93359 28.9625L12.2211 28.9125L14.4836 21.6625L16.7961 28.8875L24.0836 28.9L18.2211 33.4375L20.4711 40.6875V40.6875Z" fill="#F5F5F5"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_2909_185467">
+<path d="M0.246094 32C0.246094 14.3269 14.573 0 32.2461 0V0C49.9192 0 64.2461 14.3269 64.2461 32V32C64.2461 49.6731 49.9192 64 32.2461 64V64C14.573 64 0.246094 49.6731 0.246094 32V32Z" fill="white"/>
+</clipPath>
+</defs>
+</svg>
